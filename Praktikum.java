@@ -1,1 +1,2 @@
-Class Praktikum
+Class Praktikum {
+pablic static void main
