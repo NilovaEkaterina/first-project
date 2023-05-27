@@ -1,2 +1,3 @@
 Class Praktikum {
-pablic static void main
+pablic static void main{
+int f1;
